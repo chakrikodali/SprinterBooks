@@ -1,0 +1,20 @@
+{
+	"name": "SprinterBooks",
+	"description": "College book rental service",
+	"version": "0.0.1",
+	"author": "Chakri Kodali",
+	"contributors": [{
+		"name": "chakri kodali",
+		"email": "chakrikodali@gmail.com"
+	}],
+	"repository": {
+		"type": "git",
+		"url": ""
+	},
+	"dependencies": {
+		"http-server": "0.5.1"
+	},
+	"engines": {
+		"node": ">=0.8.0"
+	}
+}
